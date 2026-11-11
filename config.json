@@ -48,7 +48,14 @@
     "logo": "",
     "maxGuests": 16,
     "name": "Casa Larios",
-    "photos": [],
+    "photos": [
+      "fotos/01.jpg",
+      "fotos/02.jpg",
+      "fotos/03.jpg",
+      "fotos/04.jpg",
+      "fotos/05.jpg",
+      "fotos/06.jpg"
+    ],
     "tagline": {
       "en": "8 suites in the most beautiful coast in Lombok",
       "es": "8 suites en la costa más bonita de Lombok"
